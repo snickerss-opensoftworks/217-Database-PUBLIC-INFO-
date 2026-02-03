@@ -1,0 +1,25 @@
+{
+  "organization": "217 Hotlines",
+  "registry_name": "Public Safety Intelligence",
+  "last_updated": "2026-02-03",
+  "total_entries": 0,
+  "data_status": "Operational",
+  "safety_records": [
+    {
+      "record_id": "217-001-PENDING",
+      "date_added": "2026-02-03",
+      "platform": "NONE",
+      "details": {
+        "username": "N/A",
+        "unique_id": "N/A",
+        "issue_category": "N/A",
+        "description": "Database initialized. Currently awaiting verified public entries."
+      }
+    }
+  ],
+  "verified_staff_roles": [
+    "Core Team",
+    "Safety Moderator",
+    "Intelligence Analyst"
+  ]
+}
