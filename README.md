@@ -6,8 +6,7 @@
 217 Hotlines is a community organization led by teens and young adults (ages 14+ and 18+). We are dedicated to protecting the youth of Roblox and Discord by providing education, identifying predatory behavior, and assisting in the reporting process to keep digital spaces safe.
 
 ### Important Links
-* Discord Community: https://discord.gg/7zMYxd9mxx
-* Official Website: [Link your domain here]
+* Official Website: https://217h.pages.dev
 * Incident Reporting: Open a ticket in our Discord server for staff assistance.
 
 ### How We Work
